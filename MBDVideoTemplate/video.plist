@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_00_Intro.m4v</string>
+		<key>Title</key>
+		<string>Introduction</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_01_Vari_Drills.m4v</string>
+		<key>Title</key>
+		<string>Variations and Drills</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_02_Drill2.m4v</string>
+		<key>Title</key>
+		<string>Drill 2</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_03_JumpGuard.m4v</string>
+		<key>Title</key>
+		<string>Entry: Jump Guard</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_05_ClosedGuard1.m4v</string>
+		<key>Title</key>
+		<string>Entry: Closed Guard 1</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_06_ClosedGuard2.m4v</string>
+		<key>Title</key>
+		<string>Entry: Closed Guard 2</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_07_ClosedGuard3.m4v</string>
+		<key>Title</key>
+		<string>Entry: Closed Guard 3</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_08_HipBlockSweep.m4v</string>
+		<key>Title</key>
+		<string>Hip Block Sweep</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_09_ScissorSweep.m4v</string>
+		<key>Title</key>
+		<string>Scissor Sweep</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_10_StarSweep.m4v</string>
+		<key>Title</key>
+		<string>Star Sweep</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_11_DbleAnkleTap.m4v</string>
+		<key>Title</key>
+		<string>Standing Hip Block</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_12_SpinBack.m4v</string>
+		<key>Title</key>
+		<string>Spinning Back Take</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_13_BallerinaSweep.m4v</string>
+		<key>Title</key>
+		<string>Ballerina Sweep</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_14_Armbar.m4v</string>
+		<key>Title</key>
+		<string>Armbar</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_15_Triangle.m4v</string>
+		<key>Title</key>
+		<string>Triangle</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_16_InvertedTriangle.m4v</string>
+		<key>Title</key>
+		<string>Inverted Triangle</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_17_Omoplata.m4v</string>
+		<key>Title</key>
+		<string>Omoplata</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_18_OmoplataSweep.m4v</string>
+		<key>Title</key>
+		<string>Omoplata Sweep</string>
+	</dict>
+	<dict>
+		<key>Filename</key>
+		<string>SpiderGuard_19_Kneebar.m4v</string>
+		<key>Title</key>
+		<string>Kneebar</string>
+	</dict>
+</array>
+</plist>
